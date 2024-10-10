@@ -1,3 +1,4 @@
+![Image of Markdown Headers](https://raw.githubusercontent.com/Codecademy/docs/main/media/rendered-markdown-headings.png)
 # This is an h1 header, which is the largest
 ## This is an h2 header
 ### This is the h3 header
