@@ -5,3 +5,11 @@
 #### This is an h4 header
 ##### This is an h5 header, which is second smallest
 ###### This is an h6 header, which is the smallest
+
+```python
+# This is an example of Python code
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+```
